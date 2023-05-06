@@ -5,7 +5,7 @@ This project consist of writting a calculator in every programming language that
 ### Languages
 
 - [x] Python
-- [ ] JavaScript (NodeJS)
+- [x] JavaScript (NodeJS)
 - [ ] Rust
 - [ ] Go
 - [ ] Java
