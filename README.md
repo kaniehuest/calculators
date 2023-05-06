@@ -1,10 +1,10 @@
 # A calculator to rule them all
 
-This project consist in writting a calculator in every programming language that exists.
+This project consist of writting a calculator in every programming language that exists.
 
 ### Languages
 
-- [ ] Python
+- [x] Python
 - [ ] JavaScript (NodeJS)
 - [ ] Rust
 - [ ] Go
