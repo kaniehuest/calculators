@@ -4,10 +4,10 @@ This project consist of writting a calculator in every programming language that
 
 ### Languages
 
-- [x] Python
-- [x] JavaScript (NodeJS)
+- [x] [Python](./Python/)
+- [x] [JavaScript (NodeJS)](./JavaScript/)
 - [ ] Rust
 - [ ] Go
 - [ ] Java
-- [ ] C
+- [x] [C](./C/)
 - [ ] C++
