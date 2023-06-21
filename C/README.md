@@ -14,11 +14,3 @@ chmod +x calculator
 ```
 ./calculator
 ```
-
-## Windows
-
-// Todo
-
-### OpenBSD
-
-// todo
